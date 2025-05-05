@@ -55,7 +55,7 @@ Korta, tydliga förklaringar + exempel. Jobba gärna med flashcards: ordet på e
 | **Medelvärde** | (Summa av alla) ÷ (antal). | (2+3+5) ÷ 3 = 3,33 |
 | **Median** | Mitten­talet i ordnad lista.<br>· Jämnt antal → medeltal av de två i mitten. | 1, 4, **7**, 9 (7) |
 | **Typvärde** | Värdet som förekommer oftast. | 3,3,4,5 → typvärde 3 |
-| **Stapeldiagram** | Rektanglar visar hur många av varje sak. | 🍎 = 5 🌳 = 8 |
+| **Stapeldiagram** | Rektanglar visar hur många av varje sak. | T.ex. två staplar, en för äpplen (höjd 5) och en för päron (höjd 8). |
 | **Linjediagram** | Punkter kopplas med linje (förändring över tid). | Temp kl. 8,12,16 |
 | **Cirkeldiagram** | “Pizza” där hela cirkeln = 100 %. | 1/4 = 25 % av cirkeln |
 
